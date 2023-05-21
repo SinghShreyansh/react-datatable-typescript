@@ -63,3 +63,8 @@ Note - this appliaction is fetching json data first then doing other things, so 
 It will get start on http://localhost:3000/user 🥳
 
 Now your application will run successfully.
+
+
+https://github.com/SinghShreyansh/react-datatable-typescript/assets/91277635/623cef12-6cfa-446b-af7d-d323f6ea832b
+
+
