@@ -94,6 +94,9 @@ const TableComponent: React.FC<{ fetchdata: User[] }> = ({ fetchdata }) => {
     const role = prompt('Enter the role:');
     const lastlogin = "11 May, 2022";
     const imgUrl = prompt('Enter the imgUrl:');
+    const title = "title";
+    const department = "department";
+    const age = "age";
 
     if (name && email && role && imgUrl && status) {
       const newUser: User = {
@@ -102,7 +105,10 @@ const TableComponent: React.FC<{ fetchdata: User[] }> = ({ fetchdata }) => {
         status,
         role,
         lastlogin,
-        imgUrl
+        imgUrl,
+        title,
+        department,
+        age
       };
 
       setData([...data, newUser]);
