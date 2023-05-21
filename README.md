@@ -1,4 +1,5 @@
 # React-Datatable
+(React + Typescript + Tailwindcss)
 
 The web application is designed to pull user data from a user API and display it in a table. It also includes functionalities such as creating, deleting, and editing users, as well as sorting and pagination. The UI components used in the application are badges, button components, and pagination.
 
